@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8858" started-at="2019-01-11T10:03:43Z" finished-at="2019-01-11T10:03:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8858" started-at="2019-01-11T10:03:43Z" finished-at="2019-01-11T10:03:52Z">
+      <class name="org.kale.pcs.ValidLogin">
+        <test-method status="PASS" signature="intialization()[pri:0, instance:org.kale.pcs.ValidLogin@6d8a00e3]" name="intialization" is-config="true" duration-ms="6467" started-at="2019-01-11T15:33:43Z" finished-at="2019-01-11T15:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="readData()[pri:0, instance:org.kale.pcs.ValidLogin@6d8a00e3]" name="readData" is-config="true" duration-ms="169" started-at="2019-01-11T15:33:50Z" finished-at="2019-01-11T15:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+        <test-method status="PASS" signature="loginToRediff()[pri:0, instance:org.kale.pcs.ValidLogin@6d8a00e3]" name="loginToRediff" duration-ms="1214" started-at="2019-01-11T15:33:50Z" finished-at="2019-01-11T15:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToRediff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.kale.pcs.ValidLogin@6d8a00e3]" name="tearDown" is-config="true" duration-ms="998" started-at="2019-01-11T15:33:51Z" finished-at="2019-01-11T15:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.kale.pcs.ValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

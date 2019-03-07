@@ -1,0 +1,11 @@
+# User Details test data
+
+login1:
+    entity: "Freight Forwarder"     
+    email: frieght
+    password: "123456789"
+    
+
+login2:
+    email: akshay@gmail.com
+    password: pass
